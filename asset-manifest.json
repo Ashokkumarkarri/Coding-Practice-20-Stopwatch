@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Coding-Practice-20-Stopwatch/static/css/main.266af83f.chunk.css",
+    "main.js": "/Coding-Practice-20-Stopwatch/static/js/main.1bf52612.chunk.js",
+    "main.js.map": "/Coding-Practice-20-Stopwatch/static/js/main.1bf52612.chunk.js.map",
+    "runtime-main.js": "/Coding-Practice-20-Stopwatch/static/js/runtime-main.0b62e691.js",
+    "runtime-main.js.map": "/Coding-Practice-20-Stopwatch/static/js/runtime-main.0b62e691.js.map",
+    "static/js/2.019038f3.chunk.js": "/Coding-Practice-20-Stopwatch/static/js/2.019038f3.chunk.js",
+    "static/js/2.019038f3.chunk.js.map": "/Coding-Practice-20-Stopwatch/static/js/2.019038f3.chunk.js.map",
+    "index.html": "/Coding-Practice-20-Stopwatch/index.html",
+    "static/css/main.266af83f.chunk.css.map": "/Coding-Practice-20-Stopwatch/static/css/main.266af83f.chunk.css.map",
+    "static/js/2.019038f3.chunk.js.LICENSE.txt": "/Coding-Practice-20-Stopwatch/static/js/2.019038f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b62e691.js",
+    "static/js/2.019038f3.chunk.js",
+    "static/css/main.266af83f.chunk.css",
+    "static/js/main.1bf52612.chunk.js"
+  ]
+}
