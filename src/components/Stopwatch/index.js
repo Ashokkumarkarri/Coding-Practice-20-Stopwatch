@@ -18,6 +18,7 @@ class Stopwatch extends Component {
       }
     })
   }
+
   start = () => {
     const {isRunning} = this.state
     if (!isRunning) {
@@ -54,13 +55,13 @@ class Stopwatch extends Component {
             {format(min)}:{format(sec)}
           </h1>
           <div className="buttons-div">
-            <button className="green-btn" onClick={this.start}>
+            <button className="green-btn" onClick={this.start} type="button">
               Start
             </button>
-            <button className="red-btn" onClick={this.stop}>
+            <button className="red-btn" onClick={this.stop} type="button">
               Stop
             </button>
-            <button className="yellow-btn" onClick={this.reset}>
+            <button className="yellow-btn" onClick={this.reset} type="button">
               Reset
             </button>
           </div>
